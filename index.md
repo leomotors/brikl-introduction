@@ -43,7 +43,7 @@ My name is Nutthapat Pongtanyavichai / Leo
 
 https://แนะนำตัวบริคแอล.ลีโอมอเตอร์ส.ธุรกิจ.ไทย
 
-<p style="font-size: 2rem">or <a href="https://leomotors.github.io/brikl-introduction">https://leomotors.github.io/brikl-introduction</a> 😂</p>
+<p style="font-size: 2rem">or <a href="https://brikl-introduction-leomotors.pages.dev">https://brikl-introduction-leomotors.pages.dev</a> 😂</p>
 
 ---
 

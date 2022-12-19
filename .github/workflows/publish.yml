@@ -6,8 +6,7 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
+  deployments: write
 
 concurrency:
   group: "pages"
@@ -39,11 +38,11 @@ jobs:
       - name: Build and Export
         run: pnpm build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@1
         with:
-          path: build
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@main
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          projectName: brikl-introduction-leomotors
+          directory: build
