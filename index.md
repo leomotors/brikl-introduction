@@ -20,12 +20,16 @@ style: |
     color: #78c5e9;
   }
 
-  section.very-thicc {
+  section.thicc {
     font-size: 3rem;
   }
 
   img {
     background-color: transparent;
+  }
+
+  section.text-center {
+    text-align: center;
   }
 ---
 
@@ -35,13 +39,15 @@ style: |
 
 My name is Nutthapat Pongtanyavichai / Leo
 
+Software Engineer
+
 ---
 
-<!-- _class: very-thicc -->
+<!-- _class: thicc -->
 
 # This slide is available at
 
-<a href="https://แนะนำตัวบริคแอล.ลีโอมอเตอร์ส.ธุรกิจ.ไทย">https://แนะนำตัวบริคแอล.ลีโอมอเตอร์ส.ธุรกิจ.ไทย</a>
+<p>https://แนะนำตัวบริคแอล.ลีโอมอเตอร์ส.ธุรกิจ.ไทย</p>
 
 <p style="font-size: 2rem">or <a href="https://brikl-introduction-leomotors.pages.dev">https://brikl-introduction-leomotors.pages.dev</a> 😂</p>
 
@@ -53,8 +59,9 @@ My name is Nutthapat Pongtanyavichai / Leo
 
 ## My Info @ Brikl
 
-- Jr. Software Engineer (Frontend Storefront)
-- Part Time 💹
+- 🧑‍💻 Junior Software Engineer
+- 🏪 Frontend in Storefront Team
+- 💹 Part Time
 - Going to move to Platform next year
 - Been here since 1 September but just got my chance to introduce myself
 
@@ -85,14 +92,14 @@ My name is Nutthapat Pongtanyavichai / Leo
 
 ---
 
+## My Preferences
+
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 2rem">
 
 <div>
 
-## My Preferences
-
 - 🍙 **Food**: Salmon Sashimi please (actually can eat anything)
-- 🧑‍💻 **Hobbies**: Programming, Contribute OSS, Participate in Community Events, Useless Application
+- 🧑‍💻 **Hobbies**: Programming developing useless applications, Contribute to Open Source, Participate in Community Events
 - 🎮 **Games**: Rythm Games, Minecraft, Microsoft Flight Simulator, Meme Games (ex: MUCK)
 - 🎧 **Music**: Anime, J-Pop, Meme
 - ▶️ **Media**: Anime ([My Anime List](https://myanimelist.net/profile/Leomotors))
@@ -100,7 +107,7 @@ My name is Nutthapat Pongtanyavichai / Leo
 
 </div>
 
-![w:450](images/yt-recap.webp)
+![w:600](images/yt-recap.webp)
 
 </div>
 
@@ -124,8 +131,8 @@ My name is Nutthapat Pongtanyavichai / Leo
 
 <div>
 
-- Love participating in these events
-- Past Events are ๖th Stupid Hackathon in Thailand, Code Golf Party (covid cluster lmao)
+- Love participating in community events
+- Some of participated events are ๖th Stupid Hackathon in Thailand, Code Golf Party (covid cluster lmao)
 - **Fun Fact**: I have made a short presentation in this event (Hacktoberfest) too!
 - Help organize events, now member of Creatorsgarten
 
@@ -139,7 +146,7 @@ My name is Nutthapat Pongtanyavichai / Leo
 
 ## DevMountain
 
-- Another wonderful event sponsored by Brikl
+- Another wonderful event sponsored by Brikl at Chiang Mai!
 
 <div style="display: flex; gap: 2rem; justify-content: space-evenly; align-items: center;">
 
@@ -177,7 +184,7 @@ Promote BRIKL in every way possible
 
 ---
 
-## My Contribution to BRIKL
+## My Contribution to BRIKL ![w:48](images/bocchi-dying.gif)
 
 Emoji Engineer
 
@@ -188,3 +195,11 @@ Emoji Engineer
 ![w:500](images/brikl-emoji-2.webp)
 
 </div>
+
+---
+
+<!-- _class: thicc text-center -->
+
+# Q&A
+
+Ask anything!
