@@ -123,6 +123,8 @@ Software Engineer
 
 </div>
 
+Osu!, A Dance of Fire and Ice, Trombone Champ
+
 ---
 
 ## Events
